@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title><![CDATA[Pulse]]></title>
+      <link>http://pulseapp.com/blog</link>
+      <lastBuildDate>Sun, 08 Mar 2015 00:00:00 -0600</lastBuildDate>
+      <language>en-gb</language>
+      <copyright>Copyright 2015</copyright>
+      <ttl>3600</ttl>
+      <atom:link href="http://pulseapp.com/blog/feed" rel="self" type="application/rss+xml" />
+
+            <item>
+      <title><![CDATA[Using Pulse To Track Actuals Alongside Projections]]></title>
+      <author>jd@simplefocus.com (JD Graffam)</author>
+      <link>http://pulseapp.com/blog/blog/using-pulse-to-track-actuals-alongside-projections</link>
+      <guid>http://pulseapp.com/blog/blog/using-pulse-to-track-actuals-alongside-projections</guid>
+      <category>article</category>
+      <pubDate>Sun, 08 Mar 2015 00:00:00 -0600</pubDate>
+      <description><![CDATA[<p>
+     First and foremost, Pulse is designed to manage cash flow, so our entire system is optimized around the idea that your past transactions are not as important as your projected income and expenses. However&#8230;
+</p>
+
+<p>
+    Pulse also does a great job at <span style="background-color: initial;">tracking actuals against projections. And, with categories, you can generate reports that will help your accountant at the end of the year (as long as you&#8217;ve input your income and expenses accurately). With our CSV uploader and our soon-to-be-released bulk entry screen, it&#8217;s a breeze to keep everything up-to-date. </span>
+</p>
+
+<p>
+     <span style="background-color: initial;"><strong>Here How To Do It</strong></span>
+</p>
+
+<p>
+     <span style="background-color: initial;">First, you need to set up two <strong>Financial Accounts</strong></span><span style="background-color: initial;"></span>.
+</p>
+
+<p>
+     <span style="background-color: initial;"></span>Do this by going to Settings near the top right and then clicking on Accounts in the right sidebar. Or, just click Edit near the Accounts module on the right-hand side of the Cash Flow tab.
+</p>
+
+<p>
+     <span style="background-color: initial;">You&#8217;ll need two accounts: one for tracking your actuals and one for your projections. You can set up multiple accounts if you have different business units or profit centers for your business, just make sure you are on a plan that has enough accounts included. Name them whatever you want, but for our simple demonstration, create one called Actuals and one called Projections. </span>
+</p>
+
+<p>
+     <span style="background-color: initial;"><strong>Set Up Projections</strong></span>
+</p>
+
+<p>
+     <span style="background-color: initial;">Whether you set up a budget annually or track projections throughout the year, this is your account for playing with your anticipated income and expenses. Put in possible projects, sales leads, anticipated hires, </span><span style="background-color: initial;"><strong></strong>big annual expenses –</span> whatever you are forecasting. <span style="background-color: initial;">If you want to use your projections as a budget for the entire fiscal year, then call this financial account Budget instead of Projections.</span>
+</p>
+
+<p>
+     <span style="background-color: initial;"><strong>Track Actuals</strong></span>
+</p>
+
+<p>
+     <span style="background-color: initial;">Now, since your projections aren&#8217;t necessarily realized income and expenses, you&#8217;ll use your Actuals account to track your actual income and expenses. Luckily, you won&#8217;t have to re-enter categories – they are all available for both financial accounts. While your projections will span into the future, your the entries in your Actuals account will be filled out as time passes, creating a history of past transactions. </span>
+</p>
+
+<p>
+     <span style="background-color: initial;"><strong>Comparing Actuals and Projections</strong></span>
+</p>
+
+<p>
+     <span style="background-color: initial;">Now that you have everything set up, you can toggle the checkboxes by your financial accounts from your Cash Flow (monthly, weekly or list) and Reports screens to see your projections versus your actuals.<strong> </strong>Make sure to adjust the dates that you are running reports on so that you can compare apples to apples. </span>
+</p>
+
+<p>
+     <span style="background-color: initial;"><strong>But Don&#8217;t Stop Managing Cash Flow</strong></span>
+</p>
+
+<p>
+    <span style="background-color: initial;">Pulse is best used as a cash flow management tool, so always keep another financial account for continually managing your projected income </span><span style="background-color: initial;"><strong></strong><strong></strong>and expenses, knowing that when it comes to cash flow, all that matter is how much money you have today and how much you have coming in and going out in the future. </span>
+</p>
+
+<p>
+     <span style="background-color: initial;">It&#8217;s incredibly helpful to use Pulse as a simple accounting system, and comparing actuals to projections (or a budget) is a great way to measure your business&#8217; ability to hit its projections. But, Pulse was designed for managing situations when projections and actuals may not align. Keep this in mind and use Pulse to figure out how to manage your cash flow through the tough times as well as how best to reinvest (or if you can take money out of the business) during the good times. </span>
+</p>
+
+<p>
+     <span style="background-color: initial;">Happy cash flowing! </span>
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[Three Quick Tips for Growing Your Online Business]]></title>
+      <author>jd@simplefocus.com (JD Graffam)</author>
+      <link>http://pulseapp.com/blog/blog/three-quick-tips-for-growing-your-online-business</link>
+      <guid>http://pulseapp.com/blog/blog/three-quick-tips-for-growing-your-online-business</guid>
+      <category>article</category>
+      <pubDate>Wed, 04 Feb 2015 00:00:00 -0600</pubDate>
+      <description><![CDATA[<p>
+            When we bought Pulse in October of 2013, it had been a flat business for three years. I knew the previous owners personally and knew they hadn&#8217;t neglected Pulse, but they weren&#8217;t actively building new features, either. For them, Pulse was a steady income stream, but they were busy with other things.
+</p>
+
+<p>
+         What&#8217;s incredible, and why we were so excited about Pulse, is that the business was still finding new users every month, enough to replace those who were closing their accounts. In SaaS parlance, when churn (the percentage of customers closing accounts) matches paid signups, the result is a flat business.
+</p>
+
+<p>
+         In any business, the simplest way to grow is to give customers a good experience. One of the biggest components to user experience is speed. Below, I&#8217;ll talk about three things we did in our first year<font style="background-color: initial;">, all focused on speed, to revitalize Pulse.</font>
+</p>
+
+<p>
+    <font style="background-color: initial;"> We have miles to go, but the little improvements we&#8217;ve made so far have made a measurable impact.</font>
+</p>
+
+<p>
+    <font style="background-color: initial;"> <strong>Faster, Consistent, Thoughtful Customer Service</strong></font>
+</p>
+
+<p>
+    <span style="background-color: initial;"><strong></strong>Whether we get a customer support ticket or a sales enquiry, we take the time to write back a thoughtful response—and we respond quickly. P</span><font style="background-color: initial;">hase 1 was to respond consistently within one business day, and we do that. Phase 2, which we&#8217;re working on now, is to respond to every ticket within half a day. Phase 3, our ultimate goal, is to respond within an hour (preferable within minutes).</font>
+</p>
+
+<p>
+    <span style="background-color: initial;"> In addition to the turnaround time for tickets, when we took over Pulse and reviewed the customer support history, we saw a lot of replies that didn&#8217;t make the customers feel warm and fuzzy. For example, customers often write in with a feature request we don&#8217;t plan on implementing. Previously, the request may have been ignored entirely, or a typical response would have been, &#8220;Thanks for the suggestion, but we do not plan on implementing Feature X.&#8221; And with regards to bug reports, a previous response might have been, &#8220;<font style="background-color: initial;">Sorry for the trouble. Things are back to normal now. Email us again if you have any other problems.&#8221;</span></font>
+</p>
+
+<p>
+    <font style="background-color: initial;">   However, now our responses are more thorough:</font>
+</p>
+
+<p>
+    <font style="background-color: initial;">   &#8220;Hi Sally, Our hosting company just had a half hour incident that brought us down (they had to replace some failed hardware), but it&#8217;s over now. We are working with them to ensure it doesn&#8217;t happen again. Try now, it should be back to normal. I&#8217;m really sorry for the headache. Is there anything else I can help you with?&#8221; When the situation warrants it, we also proactively offer up an account credit.</font>
+</p>
+
+<p>
+    <font style="background-color: initial;">   The key here is that we&#8217;re just being a little more specific (mentioning failed hardware) and thoughtful (sorry for the headache).</font>
+</p>
+
+<p>
+    <font style="background-color: initial;"> <strong>Pagespeed and Stability</strong></font>
+</p>
+
+<p>
+    <font style="background-color: initial;">   One of our main areas of investment in our first year of business wasn&#8217;t in redesigning Pulse, though Simple Focus is known for our visual design. While we do want to update the look of the app to feel more contemporary, and it&#8217;s in the roadmap, it&#8217;s not a higher priority than the app&#8217;s stability.</font>
+</p>
+
+<p>
+    <font style="background-color: initial;">   Our biggest user experience hurdle with Pulse when we took it over was that it had a lot of errors and would go down periodically. We dug in our heels, hired a performance expert to consult with us, and stopped the errors (while making the app load faster). If we look at when Pulse started growing fastest over the last year, it&#8217;s when we implemented these fixes.</font>
+</p>
+
+<p>
+    <font style="background-color: initial;"> <strong>Faster-Loading Marketing Site</strong></font>
+</p>
+
+<p>
+    <font style="background-color: initial;">   We redesigned our marketing site to be mobile-friendly and load faster. We know from the work we do consulting with our clients on <a href="http://simplefocus.com/">lead-gen, conversions and eCommerce</a>, <strong></strong>that speed has a strong correlation to conversion rate. So, we made sure the marketing site was fast. Right now, the marketing site reaches document-complete around two seconds and is fully loaded around seven seconds (on IE10, Cable, according to <a href="http://www.webpagetest.org/result/150216_ZB_PRD/">WebPagetest</a>). There&#8217;s plenty of room for improvement, but it&#8217;s way faster than it was.</font>
+</p>
+
+<p>
+    <font style="background-color: initial;"> <strong>Onward</strong></font>
+</p>
+
+<p>
+    <font style="background-color: initial;">   Stay tuned as we begin to work on smaller, more incremental improvements to Pulse and begin to invest in marketing and sales, while continuing to stay focused on improving speed. And even though we&#8217;ve almost doubled revenue in the first year of owning Pulse, I&#8217;ve always believed that you should have a solid product before you mash the pedal for growth, and over the last year with Pulse, that&#8217;s what we&#8217;ve focused on.</font>
+</p>
+
+<p>
+    <font style="background-color: initial;">   With these speed problems at bay, we can start working on the fun stuff like more modern interactions and a cleaner design<strong style="background-color: initial;"></strong><strong style="background-color: initial;"></strong>. But we&#8217;ll always keep speed and performance at the top of the list.</font>
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[How Redesigning One Feature Helped Us Realize We Needed Another]]></title>
+      <author>jd@simplefocus.com (JD Graffam)</author>
+      <link>http://pulseapp.com/blog/blog/how-redesigning-one-feature-helped-us-realize-we-needed-another</link>
+      <guid>http://pulseapp.com/blog/blog/how-redesigning-one-feature-helped-us-realize-we-needed-another</guid>
+      <category>article</category>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 -0600</pubDate>
+      <description><![CDATA[<p>
+           When someone wants to add multiple entries, our newest feature will save them time (for example, we&#8217;ve reduced the time it takes to add 20 entries from about 10 minutes to about two minutes).
+</p>
+
+<p>
+     <strong style="background-color: initial;">The New Interface</strong>
+</p>
+
+<p>
+        Here&#8217;s a sneak peek at the new interface coming soon:
+</p>
+
+<p>
+     <img src="http://pulseapp.com/blog/assets/img/blog/pulse-imports-redeux.gif" alt="Redesigned imports and mass entry interface" style="background-color: initial;">
+</p>
+
+<p>
+     <span style="background-color: initial;">We started to redesign the imports page this way because of the feedback we have gotten since we launched </span><span style="background-color: initial;">the upgrade </span><span style="background-color: initial;">a couple months ago. </span><span style="background-color: initial;">We never got any direct feedback that the current interface was hard to use. It was quite the opposite – people seemed to enjoy adding their entries. </span>
+</p>
+
+<p>
+    <span style="background-color: initial;"></span>So much so, in fact, that we started getting reports that users were getting errors caused by uploading too many entries for our system to handle. We can currently take about 100 entries in a single CSV import before it times out, but we have users who want to upload anywhere from 500 to 5,000 entries at once (we&#8217;re fixing this with our next release, by the way).
+</p>
+
+<p>
+    <span style="background-color: initial;"><strong>Focused On One Use Case, Not Seeing The Obvious</strong></span>
+</p>
+
+<p>
+     <span style="background-color: initial;">So, we started working on giving people the ability to upload more entries. In the process, we decided we should compress the interface </span>(as you can see above) so users wouldn&#8217;t have to scroll forever to review all of their entries. Here&#8217;s the current version, where we take up too much vertical space:
+</p>
+
+<p>
+     <img src="http://pulseapp.com/blog/assets/img/blog/importfixed.png" alt="Current imports in beta as of January 2015">
+</p>
+
+<p>
+     <span style="background-color: initial;">We didn&#8217;t see the problem originally because we were thinking of this page as a visual confirmation page, and we could only see a couple entries per page. It never occurred to us that this page could be used to power through a ton of manual entries quickly. </span>
+</p>
+
+<p>
+      So, we chose to stay consistent with the current Add Entry interface. However, when users started trying to upload a large number of entries simultaneously, we realized the problem it caused.
+</p>
+
+<p>
+    <span style="background-color: initial;"><strong>Customer Feedback Doesn&#8217;t Give You the Answers, But It Does Identify Problems</strong></span>
+</p>
+
+<p>
+    <span style="background-color: initial;"></span>It&#8217;s interesting how sometimes, you can get a blinding glimpse of the obvious after staring at the same problem for months. It definitely pays to listen to customer feedback, but it took a real focus on improving user experience to realize what the solution to the problem would look like.
+</p>
+
+<p>
+    <span style="background-color: initial;"><strong>Coming Soon</strong></span>
+</p>
+
+<p>
+    <span style="background-color: initial;">We&#8217;re almost done with the new uploads interface. Expect it to be live in the next few weeks. </span>
+</p>
+
+<p>
+    <span style="background-color: initial;"></span>
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[The Five Most Important Budget Line Items for Creative Agencies]]></title>
+      <author>jd@simplefocus.com (JD Graffam)</author>
+      <link>http://pulseapp.com/blog/blog/the-five-most-important-budget-line-items-for-creative-agencies</link>
+      <guid>http://pulseapp.com/blog/blog/the-five-most-important-budget-line-items-for-creative-agencies</guid>
+      <category>article</category>
+      <pubDate>Mon, 13 Oct 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>
+           I recently attended <a href="http://ownercamp.com/">Owner Camp 007</a>, where fellow digital agency owners celebrated, commiserated and discussed what it takes to stay sane while running our businesses.<span style="background-color: initial;"><font style="background-color: initial;"> Afterwards, all of the alumni have kept in touch over <a href="https://basecamp.com/">Basecamp</a> to continue the conversation. These discussions are already the source some of the most helpful business advice I&#8217;ve ever received. </span></font>
+</p>
+
+<p>
+     <span style="background-color: initial;"><font style="background-color: initial;"><strong>Financial Ratios</strong></span></font>
+</p>
+
+<p>
+     <span style="background-color: initial;"><font style="background-color: initial;">One piece of such advice came from a story that Adam Landrum, who runs </span></font><font style="background-color: initial;"><a href="http://www.mergeagency.com/">Merge</a>, a digital agency in Greenville, S.C., </font>shared with me. With his permission, I&#8217;m sharing it here. The advice centered on the concept of the financial ratios for a business, or in other words, what percent of your budget should go to X, Y and Z.
+</p>
+
+<p>
+    <font style="background-color: initial;">As the story goes, Adam was presenting a budget to his business mentor for critique, a budget with more than 20 line items. The mentor (who is highly skilled in evaluating the business side of creative agencies) put his hand on Adam&#8217;s shoulder as if to say, &#8220;That&#8217;</font><font style="background-color: initial;">s cute&#8221;. He turned the paper over and wrote down the following list of line items that he felt were the most worth tracking:</font>
+</p>
+
+<p>
+     <span style="background-color: initial;"> <font style="background-color: initial;"></span></font>
+</p>
+
+<ul>
+     <font style="background-color: initial;">
+    <li>Compensation</li>
+    <li><span style="background-color: initial;"></span><span style="background-color: initial;">Net Profit</span></li>
+    <li><span style="background-color: initial;">Advertising and Marketing</span></li>
+    <li><span style="background-color: initial;">Rent</span></li>
+    <li><span style="background-color: initial;">General and Administrative</span></li>
+    </font>
+</ul>
+
+<p>
+     <span style="background-color: initial;"><font style="background-color: initial;"></span></font>
+</p>
+
+<p>
+     <span style="background-color: initial;"><font style="background-color: initial;">Then, he wrote what the percentage of each item should be in a healthy creative agency. He started with compensation and profit:</span></font>
+</p>
+
+<ul>
+     <font style="background-color: initial;">
+    <li>Compensation: 58%</li>
+    <li>Net Profit: 20%</li>
+    </font>
+</ul>
+
+<p>
+     <span style="background-color: initial;">      The thing to note here is that this totals to 78 percent, which means your business must operate off of the remaining 22 percent. The rest breaks down as follows:<font style="background-color: initial;"></span></font>
+</p>
+
+<ul>
+     <font style="background-color: initial;">
+    <li>Advertising and Marketing: 5%</li>
+    <li>Rent: 6%</li>
+    <li>General and Administrative: 11%</li>
+    </font>
+</ul>
+
+<p>
+     <span style="background-color: initial;"><font style="background-color: initial;"></span></font><font style="background-color: initial;">While these numbers can be fluid and different for every agency, the most important number to watch is profit, which always has to stay at 20 percent or above. If you don&#8217;t spend much on advertising and marketing, perhaps you can afford to spend more on compensation. In a city like Memphis, Tenn., where <a href="http://simplefocus.com/">Simple Focus</a>&#8217; office is located, the cost of living is very low, so our compensation and rent can come in low, which means we can spend more on administrative expenses or keep more in profits. </font>
+</p>
+
+<p>
+     <span style="background-color: initial;"><font style="background-color: initial;">These numbers will always wind up equalling 100 percent. As long as your profit remains above 20 percent, </span></font>your business is in good shape.
+</p>
+
+<p>
+     <strong>This Works for Any Industry</strong>
+</p>
+
+<p>
+       Keep in mind, this advice applies in principle to any business or industry, but these ratios are custom-tailored for creative businesses.
+</p>
+
+<p>
+     <span style="background-color: initial;"><font style="background-color: initial;"><strong>Putting it to work in Pulse</strong></span></font>
+</p>
+
+<p>
+     <span style="background-color: initial;"><font style="background-color: initial;">You can use categories in Pulse to track these important line items in your forecasts to see how your numbers will change if you hire someone or give them a raise. As long as your cash flow remains strong and your percentages remain in line with this advice, it&#8217;s a pretty solid bet that your business will be in good shape. </span></font>
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[You Asked, So We Built It: Import CSV Data to Your Pulse Account]]></title>
+      <author>kerry@simplefocus.com (Kerry Crawford)</author>
+      <link>http://pulseapp.com/blog/blog/cash-flow-spreadsheet-import</link>
+      <guid>http://pulseapp.com/blog/blog/cash-flow-spreadsheet-import</guid>
+      <category>article</category>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>
+                   We understand that it’s difficult and time consuming to keep your data current in more than one place. You can now save time by importing a CSV of your data into your Pulse account.
+</p>
+
+<p>
+              Here’s how it works:
+</p>
+
+<p>
+    <strong>1. To start the import process, log in and go to your Cash Flow page.</strong>
+</p>
+
+<p>
+     <img src="http://pulseapp.com/blog/assets/img/blog/cashflow.png">
+</p>
+
+<p>
+     <strong></strong><strong style="background-color: initial;"></strong>
+</p>
+
+<p>
+    <strong></strong>
+</p>
+
+<p>
+     <strong>2. Export your data from your accounting software to a CSV file.</strong>
+</p>
+
+<p>
+     <strong>3. Make sure your CSV matches our format.</strong>
+</p>
+
+<p>
+     <img src="http://pulseapp.com/blog/assets/img/blog/samplecsv.png"><strong style="background-color: initial;"></strong>
+</p>
+
+<p>
+     <strong style="background-color: initial;"></strong>At the moment, CSVs have to follow our format in order to be imported.
+</p>
+
+<p>
+                 Before uploading your file, make sure it has the following columns:
+</p>
+
+<ul>
+    <li><strong>Date </strong>- The date of the payment or deposit in the format of YYYY-MM-DD.</li>
+    <li><strong>Title</strong> - The title for your new item. </li>
+    <li><strong>Payment*</strong> - Enter a field in this column to create an expense.</li>
+    <li><strong>Deposit*</strong> - Enter a field in this column to create an income item. </li>
+</ul>
+
+<p>
+                   *Note that you can only have one payment or deposit per row.
+</p>
+
+<p>
+                   We’ll also accept these additional columns:
+</p>
+
+<ul>
+    <li><strong>Account</strong> - The Pulse account the item is to be created under.</li>
+    <li><strong>Company</strong> - Enter a field in this column to associate this item to a project under this company.</li>
+    <li><strong>Description</strong> - The description of your new item.</li>
+    <li><strong>Category</strong> - The Pulse category for your new item. </li>
+    <li><strong>Memo</strong> - The memo of the payment / deposit. </li>
+</ul>
+
+<p>
+                   You can tweak your existing CSV to follow our format or <a href="http://pulse.pulse.pulseapp.com/files/pulseapp.imports-template.csv">download our template</a>.
+</p>
+
+<p>
+     <strong>4. Upload the CSV to your Pulse account.</strong>
+</p>
+
+<p>
+     <img src="http://pulseapp.com/blog/assets/img/blog/upload.png">
+</p>
+
+<p>
+     <strong style="background-color: initial;">5. Edit your Income and Expenses </strong>
+</p>
+
+<p>
+     <strong style="background-color: initial;"></strong>After you upload your file, you’ll have the opportunity to edit each entry (or row) from your CSV before it’s imported.
+</p>
+
+<p>
+    <img src="http://pulseapp.com/blog/assets/img/blog/importfixed.png">
+</p>
+
+<p>
+     <strong>6. When you’re satisfied with your entries, click “save all import items” to complete your import.</strong>
+</p>
+
+<p>
+                 After you save your import, your data will be available in your Pulse account. You&#8217;ll be able to edit items, manipulate them and get reports on your cash flow, just like you would if you had manually entered your income and expenses.
+</p>
+
+<p>
+     <img src="http://pulseapp.com/blog/assets/img/blog/done.png">
+</p>
+
+<p>
+              Our imports are still in beta, and we’re continuing to work on making it easier to integrate the data in your accounting software with your Pulse account.
+</p>
+
+<p>
+     <span style="background-color: initial;">Give imports a try and let us know what you think. If you’re having trouble importing your CSV, or if you’d like to request that we work on integrations for a kind specific accounting software, please let us know by emailing </span><a href="mailto:info@pulseapp.com" style="background-color: initial;">info@pulseapp.com</a><span style="background-color: initial;">.</span>
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[The Results of Our User Survey and Some Exciting New Developments]]></title>
+      <author>kerry@simplefocus.com (Kerry Crawford)</author>
+      <link>http://pulseapp.com/blog/blog/Survey-results</link>
+      <guid>http://pulseapp.com/blog/blog/Survey-results</guid>
+      <category>article</category>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>
+     <span style="background-color: initial;">As many of you know, Pulse was purchased by <a href="http://simplefocus.com">Simple Focus</a></span> about a year ago. Since we took over, we’ve been working on ideas for ways we can make Pulse truly great instead of just maintaining it.
+</p>
+
+<p>
+                 A few months ago, we asked you to tell us about yourselves, your businesses and the ways that you use Pulse. We talked to more than 10 percent of our users, and we’re excited to share both the results of our research and some exciting new developments with you.
+</p>
+
+<p>
+         Here&#8217;s what we learned:
+</p>
+
+<p>
+     <strong>        Seventy-eight percent of people who responded to the survey are current Pulse users. </strong>
+</p>
+
+<p>
+         And, more than half of you have used Pulse for at least one year.
+</p>
+
+<p>
+     <strong>Pulse is primarily used by small businesses. </strong>
+</p>
+
+<p>
+         We were surprised to find out how many Pulse users - more than 90 percent of you -  are using Pulse to manage cash flow for a small business. Most companies that use Pulse are using it to manage $5 million or less annually, but the majority of those are managing between $100,000 and $1 million annually.
+</p>
+
+<p>
+     <img src="http://pulseapp.com/blog/assets/img/blog/pm-20140919-income.png" style="width: 913px; background-color: initial;">
+</p>
+
+<p>
+     <strong>Pulse users are business leaders. </strong>
+</p>
+
+<p>
+                 Pulse users hold leadership positions in their companies, with 76 percent of respondents identifying themselves as business owners and 17 percent identifying themselves as managers.
+</p>
+
+<p>
+     <strong>        Pulse customers are mostly creative and service businesses.</strong>
+</p>
+
+<p>
+                 Interestingly, the majority of users – 68 percent, to be exact - work in some sort of creative or service business. Almost all of you are in service-based businesses (like law firms,  accounting firms and advertising and marketing agencies) but we also have customers that use Pulse in the retail, manufacturing, healthcare and restaurant industries.
+</p>
+
+<p>
+     <strong>        Pulse is integral to your business.</strong>
+</p>
+
+<p>
+                 We also didn’t realize how often you look for insight into your cash flow: three quarters of you use Pulse to manage or predict cash flow on a daily or weekly basis.
+</p>
+
+<p>
+     <img src="http://pulseapp.com/blog/assets/img/blog/pm-20140919-frequency.png" style="background-color: initial;">
+</p>
+
+<p>
+                 We were less surprised about the things that you like about Pulse, because they’re some of the things we like best about it, too. You like that Pulse is cloud-based, and many of you told us that Pulse was easy to set up and use. Overall, you love that Pulse does what it’s supposed to do – help you manage your cash flow – well, so that you can make smarter business decisions.
+</p>
+
+<p>
+     <strong>        You also weren’t shy about letting us know where there was room for improvement.</strong>
+</p>
+
+<p>
+                 We know as well as you do that Pulse has been neglected for too long. There haven’t been many updates or new features in forever, and we apologize for that. We hear you, and we’re working on it. The results of this survey have confirmed some of our decisions regarding new features (more on that below) and have given us ideas for future updates:
+</p>
+
+<ul>
+    <li><strong>You want software integration. </strong></li>
+</ul>
+
+<p>
+                 So you’re going to get it – soon. Thirty percent of you said that Pulse would be a lot better if it allowed for integration with your accounting software or Excel spreadsheets. Keeping your data current in more than one place is time consuming and difficult. So, we’re fixing it. By the end of September, you’ll be able to import CSVs with your Pulse account, and we&#8217;re working on adding integration with accounting software in the near future.
+</p>
+
+<ul>
+    <li><strong>You want Pulse to be more reliable. </strong></li>
+</ul>
+
+<p>
+                 We know that Pulse can be frustratingly slow and unreliable for less than five percent of our users. This will be fixed within a month.
+</p>
+
+<ul>
+    <li><strong>You want interface improvements. </strong></li>
+</ul>
+
+<p>
+                 One of the best things to come out of our research is a laundry list of ideas for improvements to Pulse’s interface.
+</p>
+
+<p>
+                 So what does this mean?
+</p>
+
+<p>
+                 It means that we’ve got a lot of work to do.
+</p>
+
+<p>
+                 You’ll see some of that work very soon. We’re rolling out two big, new features this month: software integration that will let you use Pulse with your existing accounting software and performance improvements.
+</p>
+
+<p>
+     <span style="background-color: initial;">Other fixes - like some of the UI improvements – will take us a little longer. The important thing is that we’re working on them, and we’ll let you know about them as they happen. If you’ve got any other ideas for how we can make Pulse better, <a href="mailto:info@pulseapp.com">we’d love to hear them</a></span>.
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[Best Laid Plans: Our Upgrade Broke Character Encoding]]></title>
+      <author>jd@simplefocus.com (JD Graffam)</author>
+      <link>http://pulseapp.com/blog/blog/system-notice-character-encoding-issue</link>
+      <guid>http://pulseapp.com/blog/blog/system-notice-character-encoding-issue</guid>
+      <category>article</category>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p style="background:#f4f4f4; border:1px solid #ddd; padding:10px;">
+    <strong>Update, August 28, 2014: </strong> We believe this issue is fully resolved. If you find anything that does not look right to you, please <a href="http://pulseapp.com/contact/index.php">let us know.</a>
+</p>
+
+<p>
+         We pushed a major upgrade to Pulse on Sunday, August 24 around midnight in the U.S. This upgrade is something we&#8217;ve been working on since October, and it will serve as the foundation for dozens of upgrades over the coming months, including our most requested feature, imports. We&#8217;re also finally able to make some foundational upgrades to the performance of Pulse, so it will be faster for all of our users.
+</p>
+
+<p>
+         But sometimes things don&#8217;t go as planned, and we encountered a problem with the database upgrade for many of our customers. The problem is that the character encoding between our old database and our new database is not compatible, which caused many of our users who use special characters to have a small panic attack when their entries, notes and categories turned into gibberish. It looks something like this:
+</p>
+
+<p>
+     <img src="http://pulseapp.com/blog/assets/img/blog/encoding-20140827.png">
+</p>
+
+<p>
+         It is worth noting that this issue only affects old entries. Any new entries created after the upgrade Sunday are fine.
+</p>
+
+<p>
+         If this happened to you, we&#8217;re sorry. We are pushing a system-wide fix that we anticipate to have completed by close of business on Friday, August 29.
+</p>
+
+<p>
+         If you would like to contact our customer service team, please do so by <a href="http://pulseapp.com/contact/index.php">using our form</a><span style="background-color: initial;"></span>. We will be happy to explain further or help you in any way we can.
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[How to Use Cash Flow Scenarios in Pulse to Make Decisions]]></title>
+      <author>don@pulseapp.com (Don Dalrymple)</author>
+      <link>http://pulseapp.com/blog/blog/how-to-use-cash-flow-scenarios-in-pulse-to-make-decisions</link>
+      <guid>http://pulseapp.com/blog/blog/how-to-use-cash-flow-scenarios-in-pulse-to-make-decisions</guid>
+      <category>article</category>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[]]></description>
+      </item>
+            <item>
+      <title><![CDATA[Using Cash Flow Scenarios for Decisions in Pulse]]></title>
+      <author>don@pulseapp.com (Don Dalrymple)</author>
+      <link>http://pulseapp.com/blog/blog/using-cash-flow-scenarios-for-decisions-in-pulse</link>
+      <guid>http://pulseapp.com/blog/blog/using-cash-flow-scenarios-for-decisions-in-pulse</guid>
+      <category>article</category>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>
+    <span style="background-color: initial;">You can’t run your business blind. Well, you could, but doing so has consequences. Many startups try to shoot from the hip when it comes to growing their business, but this approach is fraught with common mistakes and failures.</span>
+</p>
+
+<p>
+    If you&#8217;re not careful, you might make the mistake of spending money on resources that can wait until you are in a better cash position. Or, your market’s seasonality can have an impact on your cash flow. Such actions can leave you without the cash you need for emergencies or dealing with business needs at the right time.
+</p>
+
+<p>
+    The good news is, avoiding these mistakes is easy with a combination of goal setting and cash flow monitoring.
+</p>
+
+<p>
+    For example, imagine planning for a large trade show with high expenditures. If you see that your cash position will be weak around the time of the show, you can plan ahead and make the decision to hold off on purchasing that new enterprise software system or hiring a new full-time employee.
+</p>
+
+<p>
+    Instead, you can wait for the boost you&#8217;ll get from your trade show lead conversions and reassess what the infusion of revenue will do for your future cash flow. This allows you to manage by the numbers and connect clearly with your cash position. Clear data is empowering and helps you plan your spending and timeline.
+</p>
+
+<p>
+    You can use Pulse to play out scenarios to give you clarity and help you reach the goals you have set. <span style="background-color: initial;">Whether your business is starting up or going strong for years, this process is necessary to keep your profitability high and your cash flow positive.</span><span style="background-color: initial;"></span><span style="background-color: initial;"></span>
+</p>
+
+<p>
+    A great way to do this is to put all of the deals you&#8217;re working as separate income items for different projects. You can adjust your income and game out different scenarios to see what you would need to do if a project falls through or unexpected income is generated. <span style="background-color: initial;">For example, if you have a $3,500 deal with a high probability of closing with ABC Company, enter a project in the income area of Pulse with a project with ABC Company. </span>
+</p>
+
+<p>
+    From there, toggle the inclusion of those income line items by checking or unchecking them. Doing this will allow you to see how important each item is to your cash flow situation at different points in time, which will give you further sensitivity to different possibilities. It gets you emotionally involved with the goal, and that is worth gold.
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[Cash Flow: The Lifeblood of Your Business]]></title>
+      <author>don@pulseapp.com (Don Dalrymple)</author>
+      <link>http://pulseapp.com/blog/blog/cashflow-the-lifeblood-of-your-business</link>
+      <guid>http://pulseapp.com/blog/blog/cashflow-the-lifeblood-of-your-business</guid>
+      <category>article</category>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>
+      Cash flow is like the heartbeat of your business, it pumps in and out and has to be monitored. When it&#8217;s not working properly, it can threaten the viability of a venture or startup.
+</p>
+
+<p>
+      Your business is a system, like a living body, with a flow and a timing that have to work day in and day out. Having cash on hand for mundane and critical expenses keeps things moving forward, but it can also give the power to invest in business growth opportunities.
+</p>
+
+<p>
+      As an entrepreneur and business owner, your job is to keep the flow going without disruption, which means knowing your current cash position.
+</p>
+
+<p>
+      In Pulse, it&#8217;s easy to keep an eye on your monthly, weekly or daily cash position, which can help you to see how much money you will have on hand at any time.
+</p>
+
+<p>
+    As a manager of your business, it&#8217;s critical that there not be a lapse in cash flow when you&#8217;re trying to make payroll, buying necessary equipment for jobs and deciding on a strategic decision. All of these decisions require clear information.
+</p>
+
+<p>
+      If you are keeping your cash flow information current, then you can play with the what-if situations, like:
+</p>
+
+<p>
+    What if we&#8230;
+</p>
+
+<ul>
+    <li>want to hire a new employee?</li>
+    <li>upgrade our office space?</li>
+    <li>forego working with that difficult customer?</li>
+    <li>increase my owner&#8217;s draw?</li>
+    <li>pay for a new vehicle?</li>
+    <li>buy new computers?</li>
+</ul>
+
+<p>
+    When your decisions are based on probabilities and information, you are better equipped to mitigate risk and discover peace of mind.
+</p>
+
+<p>
+      In the end, it&#8217;s all about clarity. You are managing the life blood of the business, after all.
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[Four Tips for ​Managing Your Startup's Burn Rate]]></title>
+      <author>don@pulseapp.com (Don Dalrymple)</author>
+      <link>http://pulseapp.com/blog/blog/managing-your-startups-burn-rate</link>
+      <guid>http://pulseapp.com/blog/blog/managing-your-startups-burn-rate</guid>
+      <category>article</category>
+      <pubDate>Tue, 22 Apr 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>
+           The excitement of starting a new business and changing the world can be exhilarating. In the emotion of the startup phase, it is easy to lose sight of the fact that there are many unknowns.
+</p>
+
+<p>
+           The prospective customers that committed to buying your first prototype may back out. The employees you count on most might be approached with a different offer. If you overspend on unnecessary overhead, then you increase your risks in the face of storms that will inevitably come your way.
+</p>
+
+<p>
+           The first thing to do is ensure you are clear on your cash flow. We&#8217;re a little biased, but we feel like <a href="http://pulseapp.com/signup/index.html">Pulse</a> provides that framework to see the past, present and future for your cash position. It helps you make decisions that are informed and factual.
+</p>
+
+<p>
+           If you want to manage your burn rate, then here are four ways to integrate cash flow management into growing your business:
+</p>
+
+<h4>1. Examine the Impacts<span style="font-weight: normal;"></span></h4>
+
+<p>
+           When you decide to make a large purchase, input the expense into Pulse and see how this will impact your cash position. You can get an instant view of what will happen months down the road from your decision.
+</p>
+
+<p>
+           When we want something - new computers, office furniture, company cars, etc. - our emotions can pull us in a hypnotic way. If you practice a bit of personal process and look at the numbers before you make the decision, you can move from emotion to logic. If the numbers work out and the risk is small, then at least you can quantify the impact.
+</p>
+
+<h4>2. Delay A Month</h4>
+
+<p>
+          The likelihood is that you can get by without committing to a new subscription or a new purchase. In the cases where it is clear you cannot, then you have little choice.
+</p>
+
+<p>
+           But delay a month and see if you can get by without the extra purchases. Every new tool or commitment you make will increase your monthly burn rate.
+</p>
+
+<p>
+           If you are pre-revenue, especially, then delay on the niceties until you have revenue to account for your purchases.
+</p>
+
+<p>
+           This little habit in your business approach will keep you from a lot of headaches and heartaches. You will find that the things you thought were so important could simply be luxuries. See if you can get by without new overhead or costs. Learn to take delight in delaying.
+</p>
+
+<h4>3. Plan Around The Next Year<strong></strong><strong></strong></h4>
+
+<p>
+           You can also set up predictive models for income in the next year. This will help you understand your cash flow over months. When you have this picture, go back into your Pulse numbers and play with different scenarios. This will provide a sensitivity to what may happen in reality.
+</p>
+
+<p>
+           After you get a good sense of probabilities, set up an expense category that allows you to have a spending account on overhead items you may want to accelerate your goals, increase morale or reward employees.
+</p>
+
+<p>
+           This tells you how your expenses will fit into a bigger picture. Use this as a budget item and don&#8217;t exceed it.
+</p>
+
+<p>
+           Pulse effectively helped you forecast with a budgeted item around a burn rate you are comfortable with.
+</p>
+
+<h4>4. Analyze Before Jumping</h4>
+
+<p>
+           Ultimately, your burn rate can be managed with an approach that centers around analysis before emotion. Take a look at what the numbers are telling you and understand your risks before committing to new expenses.
+</p>
+
+<p>
+           This helps curb the appetite for new and shiny things that may not be necessary. Make it a management approach and you will mitigate the possibilities of running out of cash prematurely through the startup phase of your business.
+</p>
+
+<p>
+       &#8212;
+</p>
+
+<p>
+       This is a guest post from business consultant Don Dalrymple.
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[Four Cash Flow Bedtime Stories to Help You Sleep Better at Night]]></title>
+      <author>jd@simplefocus.com (JD Graffam)</author>
+      <link>http://pulseapp.com/blog/blog/four-cash-flow-bedtime-stories-to-help-you-sleep-better-at-night</link>
+      <guid>http://pulseapp.com/blog/blog/four-cash-flow-bedtime-stories-to-help-you-sleep-better-at-night</guid>
+      <category>article</category>
+      <pubDate>Thu, 17 Apr 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>
+          Cash flow problems keep many business owners up at night. That&#8217;s why we wrote these little bedtime stories to help you rest easy.
+</p>
+
+<h4>  The Princess Meets Her Prince, Sir Line-O-Credit</h4>
+
+<p>
+        After establishing a track record of success and profit, many businesses work with a bank to secure a line of credit. Businesses may want a line of credit in case they find themselves waiting on a big check, but they may also take advantage of it if there&#8217;s an opportunity that&#8217;s too good to pass up, such as acquiring a competitor or investing in a new technology that will grow their business.
+</p>
+
+<p>
+           Here&#8217;s the thing, though: banks want to give you money when you don&#8217;t need it, so be sure to get your line of credit when things are going well. A month&#8217;s worth of expenses is a good amount to shoot for.
+</p>
+
+<h4>  The Frog Gets Kissed By Online Payments</h4>
+
+<p>
+        Sometimes, your cash flow can be quickened by simply allowing your customers to pay you online. Many invoicing platforms have online payments built in. Here are some of our favorites:
+</p>
+
+<ul>
+    <li><a href="http://www.getharvest.com/" target="_blank">Harvest</a><br>
+            This is what our parent company, Simple Focus, is currently using to track time and send invoices. It&#8217;s super easy to use. </li>
+    <li><a href="http://www.freshbooks.com/" target="_blank">Freshbooks</a><br>
+            This is what Simple Focus used to use. It&#8217;s great for small, growing businesses who want to look professional and streamline invoicing. </li>
+    <li><a href="https://quickbooks.intuit.com/online/" target="_blank">Quickbooks Online</a><br>
+            Yuck, right? As an industry giant, we have to include them, and they did just redesign their online product (it&#8217;s actually not that bad). </li>
+    <li><a href="https://lessaccounting.com/" target="_blank">Less Accounting</a><br>
+            We&#8217;re friends with these guys and Simple Focus designed their logo. They have super friendly customer service and a recently redesigned product.</li>
+</ul>
+
+<p>
+            There are other great options out there, too. These are just the ones we&#8217;ve used.
+</p>
+
+<h4><strong>The Knight In Shining Armor Gets Paid In Advance</strong></h4>
+
+<p>
+        Another way to improve cash flow is by reducing your receivables. Regardless of what you&#8217;ve been told, it&#8217;s entirely possible to negotiate for upfront payments in the service industry. On larger projects, you can still break payments into milestones, but put them in front of the work rather than behind it.
+</p>
+
+<p>
+           And yes, big companies are willing to negotiate their payments terms, even with small businesses. You won&#8217;t get it if you don&#8217;t ask for it.
+</p>
+
+<h4><strong>The Emperor Uncovers His Hidden Expenses</strong></h4>
+
+<p>
+        Sometimes, we all just accept that wasted expenses are a part of business. But, we don&#8217;t have to accept that. One of the most obvious ways to improve your cash flow position is to look for places where you business is spending unnecessary money and simply stop spending that money.
+</p>
+
+<p>
+          One quick method is to go down your credit card and bank statements and look for recurring fees for things you don&#8217;t use any more. In addition to this super simple method, there are also some great tools for automatically analyzing your expenses. Here are some of our favorites:
+</p>
+
+<ul>
+    <li><a href="https://www.mint.com/" target="_blank">Mint</a><br>
+          Mint ties in to your bank accounts and visualizes everything very nicely and shows you where you spend your money based on categories. </li>
+    <li><a href="https://www.personalcapital.com/" target="_blank">Personal Capital</a><br>
+          This company lets you connect your bank and investment accounts as well, but they also have financial advisors who are relentless about trying to help you out. They&#8217;re interested in helping you with your entire portfolio, so if you&#8217;re looking to do a little financial planning in addition to managing your cash flow, check them out.</li>
+</ul>
+
+<h4><strong>Sweet Dreams, Fellow Business Owners&#8230;</strong></h4>
+
+<p>
+        At Pulse, we&#8217;re running a business, too, so we know how tough it can be to make payroll, pay vendors and keep up with taxes, not to mention investing in capabilities, company culture and employee retention. These simple tips are meant to help give you the extra control over your cash flow so you can relax and stay in control. Sleep well tonight, you have a lot of work to do tomorrow!
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[Color Coding Projected Income and Expenses]]></title>
+      <author>jd@simplefocus.com (JD Graffam)</author>
+      <link>http://pulseapp.com/blog/blog/color-coding-projected-income-and-expenses</link>
+      <guid>http://pulseapp.com/blog/blog/color-coding-projected-income-and-expenses</guid>
+      <category>article</category>
+      <pubDate>Tue, 15 Apr 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>
+     Sometimes, we get questions from customers about how to accomplish something that Pulse wasn&#8217;t made to do. Since Pulse is such a simple and abstract platform for cash flow management, you can use a little creativity and change the way you use it to accomplish something.
+</p>
+
+<p>
+     A customer wrote in recently:
+</p>
+
+<p>
+     &#8220;I&#8217;m trying to find a way to mark several income entries, which I know will be paid on a certain date, differently from the rest of my income, which I&#8217;m not so sure about, but all my income looks the same. It would help if I could quickly see which income entries are going to be paid and which ones are estimated.&#8221;
+</p>
+
+<p>
+     If you want to look at your cash flow and quickly know the difference between what income or expenses are definite and which ones are just projections, you can use the color coding feature of our financial accounts to accomplish this. It&#8217;s a little more work, but it gives great results.
+</p>
+
+<p>
+    <img src="http://pulseapp.com/site_files/two-accounts.png">
+</p>
+
+<p>
+     Try using two or three financial accounts—you might name one of them &#8220;Firm Receivables&#8221; and the other &#8220;Loose Receivables.&#8221; Of course, name them any way you want…any time a projected income item is actually paid, you can edit it to reflect actual date paid and keep it in one of those two accounts, or an even cleaner approach would be to move it to another account called &#8220;Actuals.&#8221;
+</p>
+
+<p>
+     If you have a creative way of using Pulse, let us know on Twitter [@pulseapp](http://twitter.com/pulseapp/). Give us a follow while you&#8217;re at it!
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[Why Your Startup Needs Pulse for Cash Management]]></title>
+      <author>don@pulseapp.com (Don Dalrymple)</author>
+      <link>http://pulseapp.com/blog/blog/why-your-startup-needs-pulse-for-cash-management</link>
+      <guid>http://pulseapp.com/blog/blog/why-your-startup-needs-pulse-for-cash-management</guid>
+      <category>article</category>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>
+      A hope and a dream can go a long way to motivate an entrepreneur, but it soon fades as a way to manage a growing business in the daily realities of cash management.
+</p>
+
+<p>
+      It&#8217;s often said that cash is the life blood of a growing business. In a world where the landscape changes quickly, this has never been more true. Your unseen competitor or the lack or adoption of your new product can cause your business to have to pivot quickly.
+</p>
+
+<p>
+      - What if you have to spend more on a strategy you did not anticipate? - What if you have to invest in resources in order to win new business? - What if you have to take more risk because the game has changed?
+</p>
+
+<p>
+      These are questions that need more than a gut decision. You have to know your cash position at any given time to be able to make an informed and confident decision.
+</p>
+
+<p>
+      Furthermore, you need to be able to anticipate different scenarios and know what kind of risk you would be taking.
+</p>
+
+<p>
+      This is why you need Pulse for cash management and forecasting your cash decisions.
+</p>
+
+<p>
+      Unlike accounting software and financial analysis, Pulse helps you see what could happen in the future and the impacts that can happen from different scenarios. Here are a few ways this powerful tool helps business owners and CFO&#8217;s make informed and empowering decisions:
+</p>
+
+<p>
+      **Quantify the loss of a customer.** Sometimes it may be necessary to let a difficult customer go. Other times a customer may not want to continue to do business. Pulse helps business owners and managers to understand how much of an impact on cash flow this will have.
+</p>
+
+<p>
+      **Know how much money you need by when.**  Setting specific sales goals based on what is required for healthy operations ties your performance to your cash needs. It makes your goals real. Managers can tie their revenue targets to monthly cash cushions.
+</p>
+
+<p>
+      **Avoid feast and famine.** Having a roller coaster of cash flow can defocus your team on larger business goals. Having a clear picture of where the dips are in your cash flow can help you come up with strategies to curb those dips far ahead of time.
+</p>
+
+<p>
+      **Play out cost cutback scenarios.** Know what would happen if you removed some monthly expenses that may be more of a convenience than necessity. Pulse can help a business visualize what would happen and how much cash would conceivably be freed up with expense reduction decisions.
+</p>
+
+<p>
+      **Anticipate profits and distributions.**  Whether you need to find out how much of an owner&#8217;s draw that can be taken or repayment to investors, Pulse allows for a quantifiable communications to stakeholders in the business.
+</p>
+
+<p>
+      Furthermore, anyone that needs to be tied into the financial picture of a business can readily see real-time information and future cash management impacts with their own login. This opens up **collaboration and communication** and makes the future clear rather than guesswork.
+</p>
+
+<p>
+      Running a business is hard enough when it comes to selling, product development and managing people. One area that can be made much easier is cash management.
+</p>
+
+<p>
+      The simple and powerful nature of Pulse can change the trajectory of a business&#8217; success with a commitment to seeing the future rather than being beholden to what is otherwise nebulous.
+</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[Pulse Is Getting Better, Finally]]></title>
+      <author>jd@simplefocus.com (JD Graffam)</author>
+      <link>http://pulseapp.com/blog/blog/pulse-is-getting-better-finally</link>
+      <guid>http://pulseapp.com/blog/blog/pulse-is-getting-better-finally</guid>
+      <category>article</category>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>We&#8217;ve been quiet about our recent acquisition in October, but now we&#8217;re ready to tell everyone, so we&#8217;re bringing the blog back. Check out the dates of our older posts, we haven&#8217;t posted anything new since 2010!</p>
+
+<p>A lot of you have noticed, because while Pulse is a really effective tool for your business, it hasn&#8217;t changed much.</p>
+
+<p>And for good reason: Pulse works, and it works well for managing your cash flow.</p>
+
+<p>But it isn&#8217;t finished.</p>
+
+<p>Don&#8217;t worry, Pulse isn&#8217;t going anywhere. <a href="http://simplefocus.com">Simple Focus</a> bought us in order to grow and better serve our customers, not to sell us or shut us down. In fact, since the purchase, we&#8217;re happy to report we have grown our revenue by more than 33 percent and we have more customers than ever before.</p>
+
+<p>Since the deal, we&#8217;ve been working in the background to make Pulse more reliable and faster, and we&#8217;re happy to say that this work is coming to a close. This means you may not have noticed any visual changes, but you&#8217;ve been experiencing faster page loads and a more reliable product overall. Also, we&#8217;re focused on being more responsive to our customers and potential customers.</p>
+
+<p>Next, we&#8217;ll start working on a refreshed design with the goal of making everything easier for you to use.</p>
+
+<p>The redesign will launch in 2014, but we&#8217;re going to start making some feature updates to Pulse soon.</p>
+
+<p>First up on the list are a few of our most requested features:</p>
+
+<ul>
+<li>Bulk import for income and expense entries</li>
+<li>Mobile support</li>
+<li>Printable reports</li>
+<li>And 47 more&#8230;</li>
+</ul>
+
+<p>After several years of learning what our customers want, we&#8217;re ready to get back to work for you.</p>
+
+<p>The basic premise of Pulse isn&#8217;t changing at all, we just want to focus on making it more intuitive and quicker to use so you can focus on your business without having to worry as much about your cash flow.</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[New Features: Making it quicker to edit/add/navigate]]></title>
+      <author> ( )</author>
+      <link>http://pulseapp.com/blog/blog/new-features</link>
+      <guid>http://pulseapp.com/blog/blog/new-features</guid>
+      <category>article</category>
+      <pubDate>Fri, 13 Aug 2010 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>Earlier this week, we pushed a few updates in efforts of making it quicker to edit/add income and expenses in addition to making it easier to navigate between cash flow views.</p>
+
+<p>You’ll notice a couple of things:</p>
+
+<p><img src="/site_files/0012/8720/dropdown_medium.png" alt="dropdown" /></p>
+
+<p>We’ve added a dropdown when you rollover the Cash Flow link that gives you quick access, from anywhere in the interface, to add income or expenses. In addition, you can jump directly to the cash flow view you desire.</p>
+
+<p><img src="/site_files/0012/8727/edit-link_medium.png" alt="edit" /></p>
+
+<p>Also, when you rollover entries on the cash flow pages, an “Edit” link will appear. Clicking the edit link will take you directly to the edit page.</p>
+
+<p>We hope this helps make things a bit quicker and easier.</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[New Feature: Accounts]]></title>
+      <author> ( )</author>
+      <link>http://pulseapp.com/blog/blog/accounts</link>
+      <guid>http://pulseapp.com/blog/blog/accounts</guid>
+      <category>article</category>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>We’ve just launched a new feature that we are really excited about, and hope you will be too. We’re simply calling it “Accounts”.</p>
+
+<h4>So, what’s an Account?</h4>
+
+<p>An Account is a grouping of income and/or expense entries for tracking and reporting purposes. We have intentionally designed accounts to be flexible with such uses as differentiating between bank accounts, companies, individuals, or simply personal and business entries.</p>
+
+<h4>How Accounts work</h4>
+
+<p><img src="/site_files/0012/8078/accounts-box.png" alt="add an account" /></p>
+
+<p>Each cash flow view and reports page now displays this convenient Accounts box where you can quickly turn accounts on and off for quick comparisons.</p>
+
+<p><img src="/site_files/0012/8085/modal-add-account_large.png" alt="add account title" /></p>
+
+<p>Quickly add an account from the add income/expense screens.</p>
+
+<p><img src="/site_files/0012/8071/cashflow_month_large.png" alt="color coded for recognition" /></p>
+
+<p>Each account is color coded for easy recognition.</p>
+
+<h4>Example uses for Accounts</h4>
+
+<p>As mentioned above, we have really worked to make Accounts as flexible as possible, and we believe that they can be used in a number of ways. Some of those examples include:</p>
+
+<ol>
+<li><strong>Financial Accounts</strong>. One of the top feature requests we get is for the ability to separate income and expense entries according to a bank register or account. With the Accounts feature, this is now possible for multiple bank accounts, lines of credit, credit cards, etc…</li>
+<li><strong>Business &amp; Personal Accounts</strong>. Pulse is great for freelancers to track their business’s cash flow. But it would also be great to compare personal versus business income or expenses. With the Accounts feature, freelancers can neatly organize their income and expense entries by “Business” or “Personal” for easy filing and comparison.</li>
+<li><strong>Sales Forecasting &amp; Tracking</strong>. Pulse is a great forecasting tool. With the Accounts feature, it’s even easier to organize your income and expenses. Some possible uses would be to create separate accounts for each sales person, or industry specific accounts. The options are limitless.
+And more…</li>
+</ol>
+
+<p>We’d love to hear what you think about this new feature and how you are using Accounts. Leave a comment, send us a <a href="http://twitter.com/pulseapp">tweet</a>, or <a href="/contact">contact us</a> with your thoughts and suggestions.</p>
+
+<p>Alongside this feature, we’ve also added a new higher-level Premium plan for $49/month. With this change, the old premium accounts are now called “Plus” for the same $24/month. For a complete chart of all the plans, please visit our <a href="/signup">pricing</a> page.</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[New Repeating Options: Biweekly & Quarterly]]></title>
+      <author> ( )</author>
+      <link>http://pulseapp.com/blog/blog/repeating-options</link>
+      <guid>http://pulseapp.com/blog/blog/repeating-options</guid>
+      <category>article</category>
+      <pubDate>Wed, 24 Mar 2010 00:00:00 -0500</pubDate>
+      <description><![CDATA[<p>Last night we launched a small update that was (admittedly) way over due. With any income or expense entry, you can now repeat a payment line on a biweekly and quarterly basis, in addition to the previous options. Just to clarify, “Biweekly” will repeat every two weeks, whereas the “Quarterly” will repeat every three months.</p>
+
+<p><img src="/site_files/0011/0238/repeating-options.png" alt="repeating options" /></p>
+
+<p>We’ve had several requests for this ability, so we are glad to finally say it’s here. We’ve got some other features we think you’ll like in the works. So, stay tuned. Thanks for your continued support.</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[Case Study: Subvert Marketing Inc.]]></title>
+      <author> ( )</author>
+      <link>http://pulseapp.com/blog/blog/subvert</link>
+      <guid>http://pulseapp.com/blog/blog/subvert</guid>
+      <category>article</category>
+      <pubDate>Mon, 08 Feb 2010 00:00:00 -0600</pubDate>
+      <description><![CDATA[<p>Below, Geof Harries from Subvert Marketing, Inc. tells us how Pulse helps him sleep at night.</p>
+
+<p><img src="/site_files/0010/8039/subvert-logo.gif" alt="subvert" /></p>
+
+<p><img src="/site_files/0010/8046/subvert-staff_small.jpg" class="right" alt="guys"></p>
+
+<h4>Tell us about yourself and your business.</h4>
+
+<p><a href="http://subvert.ca/">Subvert</a> builds software and websites for clients in Northern Canada. We concentrate on the enterprise sector, serving mostly government and large corporations who need specialists to implement their complex technology or digital marketing plans.</p>
+
+<h4>What were the reasons that lead you to start using Pulse?</h4>
+
+<p>Lack of awareness about where our money was being spent and where it was coming from, month to month. When you’re balancing many different projects, some that last multiple years, it’s easy to be lulled into a situation where you just keep generating and spending in the same way you’ve always done.</p>
+
+<blockquote>
+  <p>Pulse is complementary to our invoice and time tracking system because it gives me the high-level details, whereas the other system is more granular.</p>
+</blockquote>
+
+<p>That’s a dangerous position to get into because all of sudden, the rug from one project (or several) can get pulled out from underneath your feet and you’re left scrambling to find work to cover up the hole. With Pulse, we’re able to know where our receivables are at and when they will come in. If payment doesn’t arrive as expected - which as anyone in consulting services knows, happens quite often - we can be prepared with other revenue plans. Being able to know what our expenses are going to be three months down the road, also helps us sleep at night.</p>
+
+<h4>Describe how you use Pulse and how it fits within your accounting workflow.</h4>
+
+<p>I log into our Pulse account about once a week to see where things are at and make any necessary changes. Pulse is complementary to our invoice and time tracking system because it gives me the high-level details, whereas the other system is more granular. You need both views to make informed decisions.</p>
+
+<blockquote>
+  <p>Pulse grants me peace of mind when I need it most.</p>
+</blockquote>
+
+<h4>What do you like most about Pulse?</h4>
+
+<p>Flexibility, speed and accessibility. I can get to the numbers that matter most, quickly and easily, from any computer and even my iPhone. Plus, it’s fun to use. Much more fun than our previous solution, Microsoft Excel.</p>
+
+<h4>How has Pulse helped your business?</h4>
+
+<p>Pulse grants me peace of mind when I need it most. If we’re feeling panicked about a situation or don’t have a good handle on where things are at financially, I can go to Pulse and, after a few minutes, know exactly what we need to do.</p>
+
+<h4>Is there anything else you’d like to add?</h4>
+
+<p>I’ve been using Pulse since it first came out, as the One Month App. When the option arrived to pay for an account, I ponied up for a subscription right away. Pulse is worth every penny, much more than we put on a monthly basis, because it empowers business owners with critical financial insight and knowledge.</p>]]></description>
+      </item>
+            <item>
+      <title><![CDATA[Update to CSV Export]]></title>
+      <author> ( )</author>
+      <link>http://pulseapp.com/blog/blog/csv</link>
+      <guid>http://pulseapp.com/blog/blog/csv</guid>
+      <category>article</category>
+      <pubDate>Tue, 19 Jan 2010 00:00:00 -0600</pubDate>
+      <description><![CDATA[<p>
+     Today we pushed a simple update to the CSV export feature. Before, we had just the basics of each income and expense entry, but it will now export all the information associated with each entry including the company, description and memo in a nicely organized CSV file. We hope this makes this feature even more useful.
+</p>]]></description>
+      </item>
+      
+   </channel>
+</rss>
+
+
